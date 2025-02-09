@@ -11,7 +11,7 @@ This project aims to analyze financial data and generate key reports that help i
 1. **Profit & Loss (P&L) Yearly Report** – Analyzing annual financial performance, including revenue, expenses, and net profit.
 2. **Profit & Loss (P&L) Monthly Report** – Tracking financial performance on a monthly basis for better trend analysis.
 3. **Profit & Loss (P&L) Yearly Market Report** – Comparing annual financial performance across different market segments.
-4. **Gross Margin Percentage (GM%) Sub-Zone Report** – Evaluating profitability across various business sub-zones.
+4. [**Gross Margin Percentage (GM%) Sub-Zone Report**] – Evaluating profitability across various business sub-zones.https://github.com/Yadulakumar/Finance-Analysis/blob/main/GM%20%25%20sub%20Zone%20report.pdf
 
 ## Purpose of Financial Analysis
 
